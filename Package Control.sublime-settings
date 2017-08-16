@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AceJump",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketGuard",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS Completions",
+		"CSS Extended Completions",
+		"EditorConfig",
+		"ExpressComplete",
+		"FileDiffs",
+		"FileHeader",
+		"FixMyJS",
+		"Handlebars",
+		"HTML Extended",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLBeautify",
+		"IndentX",
+		"JavaScript Completions",
+		"JsFormat",
+		"LessImproved",
+		"Node Completions",
+		"Package Control",
+		"Play 2.0",
+		"Pretty JSON",
+		"Sass",
+		"Scala Syntax",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-jshint",
+		"SyncedSideBar",
+		"Theme - Cobalt2",
+		"Theme - El Capitan",
+		"TodoReview"
+	]
+}
